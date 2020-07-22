@@ -1,4 +1,4 @@
-# Source Code for Feature Selection, Feature Weighting and Hybridization of Feature Selection and Feature Weighting with Ant Lion optimization in Python
+# Source Code for Feature Selection, Feature Weighting, and Hybridization of Feature Selection and Feature Weighting with Ant Lion optimization in Python
 
 In this code, Ant Lion optimization is used to search for feature subset selection, feature weights and hybrid feature selection-feature weighting. The k parameter of the Nearest Neighbor classifier is also searched simultaneously. WFW represents the wrapper feature selection, WFW represents the wrapper feature weighting and WFSWFW represents the wrapper based hybridization of feature Selection and feature Weighting.
 
