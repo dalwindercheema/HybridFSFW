@@ -6,6 +6,6 @@ Run Main file for demo.
 
 If you use the code, please cite the following papers:
 
-Dalwinder Singh and Birmohan Singh, "Hybridization of feature selection and feature weighting for high dimensional data", Applied Intelligence, Vol., 49, No. 4, pp: 1580-1596, 2019.
+Dalwinder Singh and Birmohan Singh, "*[Hybridization of feature selection and feature weighting for high dimensional data](https://link.springer.com/article/10.1007/s10489-018-1348-2)*", Applied Intelligence, Vol., 49, No. 4, pp: 1580-1596, 2019.
 
-Dalwinder Singh, Birmohan Singh and Manpreet Kaur, "Simultaneous feature weighting and parameter determination of Neural Networks using Ant Lion Optimization for the classification of breast cancer," Biocybernetics and Biomedical Engineering, Vol. 40, Issue 1, Pages 337-351, 2020
+Dalwinder Singh, Birmohan Singh and Manpreet Kaur, "*[Simultaneous feature weighting and parameter determination of Neural Networks using Ant Lion Optimization for the classification of breast cancer](https://www.sciencedirect.com/science/article/abs/pii/S0208521619304905)*," Biocybernetics and Biomedical Engineering, Vol. 40, Issue 1, Pages 337-351, 2020
